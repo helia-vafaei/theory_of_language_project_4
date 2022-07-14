@@ -2,7 +2,6 @@
 In this program, a calculator is made using PDA, which receives a mathematical expression as an input and if it is valid displays the calculated value, otherwise, prints the INVALID message.
 <br>
 Your calculator must have the following operators:
-<br>
 1. Brackets: ) , (
 <br>
 2. Four main operations: + , − , * , /
@@ -16,6 +15,7 @@ Your calculator must have the following operators:
 6. Absolute function: abs
 <br>
 7. Exponential functions: exp , ln
+<br>
 # input
 Program input consists of a line which is a string of numbers, operators and parentheses.
 # outpu
