@@ -3,19 +3,19 @@ In this program, a calculator is made using PDA, which receives a mathematical e
 <br>
 Your calculator must have the following operators:
 <br>
-1. Brackets: ) , (
+Brackets: ) , (
 <br>
-2. Four main operations: + , − , * , /
+Four main operations: + , − , * , /
 <br>
-3. Power: ^
+Power: ^
 <br>
-4. square root: sqrt
+square root: sqrt
 <br>
-5. Trigonometric functions: sin , cos , tan , cos , tan
+Trigonometric functions: sin , cos , tan , cos , tan
 <br>
-6. Absolute function: abs
+Absolute function: abs
 <br>
-7. Exponential functions: exp , ln
+Exponential functions: exp , ln
 # input
 Program input consists of a line which is a string of numbers, operators and parentheses.
 # outpu
