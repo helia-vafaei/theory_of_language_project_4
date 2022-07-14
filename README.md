@@ -16,7 +16,6 @@ Your calculator must have the following operators:
 6. Absolute function: abs
 <br>
 7. Exponential functions: exp , ln
-<br>
 # input
 Program input consists of a line which is a string of numbers, operators and parentheses.
 # outpu
