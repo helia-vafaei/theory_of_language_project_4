@@ -3,7 +3,7 @@ In this program, a calculator is made using PDA, which receives a mathematical e
 <br>
 Your calculator must have the following operators:
 <br>
-Brackets: ) , (
+Parentheses: ) , (
 <br>
 Four main operations: + , − , * , /
 <br>
